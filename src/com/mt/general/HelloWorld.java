@@ -5,7 +5,7 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello My Name is Hasan  !! Today Date is !:  " + getLocalCurrentDate());
+		System.out.println("Hello My Name is hasan Ala  !! Today Date is !:  " + getLocalCurrentDate());
 
 		/*
 		 * String testCase;
